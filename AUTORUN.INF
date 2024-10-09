@@ -1,4 +1,4 @@
 [AutoRun]
-OPEN=STARTDOC.EXE KeyGrabber.cmd
-ICON=icon.ico
-LABEL=KeyGrabber
+OPEN=KEY.BAT
+ICON="YourCustomIcon".ico
+LABEL="Your Volume Lable"
